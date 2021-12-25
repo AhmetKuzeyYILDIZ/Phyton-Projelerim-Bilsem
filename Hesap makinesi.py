@@ -1,0 +1,8 @@
+print("_____________________________")
+print("       HESAP MAKİNESİ")
+print("       1-Toplama")
+print("       2-Çıkarma")
+print("       3-Çıkarma")
+print("       4-Bölme")
+print("       5-Çıkış")
+işlem=input("       İşlem Seçiniz (1-5):")
